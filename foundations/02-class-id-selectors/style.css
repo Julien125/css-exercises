@@ -1,0 +1,16 @@
+*{font-family: Verdana, Geneva, Tahoma, sans-serif;}
+.odd {background-color: pink;}
+
+#first{
+    font-size: 36px;
+    color: blue;
+    }
+   
+ #second{font-size:24px;}   
+
+ /* a light green background, a font size of 24px, and bold */
+ #forth { 
+    background-color:lightgreen;
+    font-size: : 24px;
+    font-weight: bold ;
+ }
